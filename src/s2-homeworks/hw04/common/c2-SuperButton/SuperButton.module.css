@@ -3,10 +3,12 @@
     color: white;
     border: none;
     font-size: 14px;
+    margin-left: 12px;
+    margin-bottom: 18px;
 }
 
 .button:last-child{
-    margin-left: 24px;
+    
 }
 
 .disabled {
